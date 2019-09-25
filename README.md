@@ -1,9 +1,9 @@
 # Kubekadal
 
-Talk to your infra using the Kubernetes [client-go](https://godoc.org/k8s.io/client-go/kubernetes) library. Inspired by kelsey hightower kube conference. [youtube link](https://youtu.be/6BYq6hNhceI?list=PL5IOR_b5llySpyG_2CE7dojO0ZVc2f5Ix&t=816)<br/> 
+Talk to your infra using the Kubernetes [client-go](https://godoc.org/k8s.io/client-go/kubernetes) library. Inspired by kelsey hightower kube conference. [Youtube Link](https://youtu.be/6BYq6hNhceI?list=PL5IOR_b5llySpyG_2CE7dojO0ZVc2f5Ix&t=816)<br/> 
 
 # About Kubekadal
-Kubekadal is a simple golang app for making the API call to Kubernetes cluster to make changes such as routing the traffic and getting the cluster information. This app receives a request from the dialogflow webhooks. It parses the request parameters to understands the action. If it finds the action and intents, it will make an API call to the Kubernetes cluster make those changes. 
+Kubekadal is a simple golang app for making the API call to Kubernetes cluster to make changes such as routing the traffic and getting the cluster information. This app receives a request from the dialogflow webhooks. It parses the request parameters to understands the action. If it finds the action and intents, it will make an API call to the Kubernetes cluster to make those changes. <br/>
 **For demo purpose only since voice commands are high volatile, don't use this in your prod/staging cluster setup.
 
 ### Before you begin
@@ -29,7 +29,7 @@ Kubekadal is a simple golang app for making the API call to Kubernetes cluster t
    - a serviceinfo intent(replaces this intent-id for KubeCtlServiceInfo in constant file)<br/>
    - a virtual service intent(replaces this intent-id for KubeCtlVirtualService in constant file)<br/>
 
-### That's it. You are good to go...
+### :punch: That's it. You are good to go...
 
 
 
