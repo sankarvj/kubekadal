@@ -1,0 +1,34 @@
+{
+  "id": "9e141994-dbbe-4bca-bf56-aa24969579e0",
+  "parentId": "37274065-0adf-47b7-8535-0994c37f1360",
+  "rootParentId": "37274065-0adf-47b7-8535-0994c37f1360",
+  "name": "kubectl.main - yes",
+  "auto": true,
+  "contexts": [
+    "kubectlmain-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "kubectlmain.kubectlmain-yes",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "condition": "",
+          "speech": "I can scale up or scale down Demo app instances,\nI can deploy the latest versions,\nI can route traffic between your two versions of the app,\nand a lot more.....\nTry asking me \"what are all the services running in the cluster?\""
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": []
+}

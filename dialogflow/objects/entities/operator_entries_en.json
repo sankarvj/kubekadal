@@ -1,0 +1,31 @@
+[
+  {
+    "value": "equally",
+    "synonyms": [
+      "equally",
+      "equal"
+    ]
+  },
+  {
+    "value": "all",
+    "synonyms": [
+      "all",
+      "whole"
+    ]
+  },
+  {
+    "value": "shutdown",
+    "synonyms": [
+      "shutdown",
+      "deny",
+      "disable"
+    ]
+  },
+  {
+    "value": "allow",
+    "synonyms": [
+      "allow",
+      "enable"
+    ]
+  }
+]

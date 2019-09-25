@@ -1,0 +1,9 @@
+{
+  "id": "cde41cfa-2d41-48d7-a3ca-da50e13d6c61",
+  "name": "resource_type",
+  "isOverridable": true,
+  "isEnum": false,
+  "isRegexp": false,
+  "automatedExpansion": false,
+  "allowFuzzyExtraction": false
+}

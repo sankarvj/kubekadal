@@ -1,0 +1,80 @@
+[
+  {
+    "id": "927192eb-fb5b-494c-9c03-10af06417e6a",
+    "data": [
+      {
+        "text": "what are all the ",
+        "userDefined": false
+      },
+      {
+        "text": "services",
+        "alias": "resource_type",
+        "meta": "@resource_type",
+        "userDefined": true
+      },
+      {
+        "text": " running?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "da788cf2-a40b-4134-a14c-7d9e74be1f49",
+    "data": [
+      {
+        "text": "is everything fine?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "2cc19a1a-f7d8-4673-ba6e-871246e7768d",
+    "data": [
+      {
+        "text": "how is my ",
+        "userDefined": false
+      },
+      {
+        "text": "cluster",
+        "alias": "resource_type",
+        "meta": "@resource_type",
+        "userDefined": true
+      },
+      {
+        "text": " doing?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "0dc10479-87a3-44a1-a6f0-c184c8898d4a",
+    "data": [
+      {
+        "text": "give my ",
+        "userDefined": false
+      },
+      {
+        "text": "cluster",
+        "alias": "resource_type",
+        "meta": "@resource_type",
+        "userDefined": true
+      },
+      {
+        "text": " health",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

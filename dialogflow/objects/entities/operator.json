@@ -1,0 +1,9 @@
+{
+  "id": "d60118c4-7ca7-486b-bcec-2b768e0170ae",
+  "name": "operator",
+  "isOverridable": true,
+  "isEnum": false,
+  "isRegexp": false,
+  "automatedExpansion": false,
+  "allowFuzzyExtraction": false
+}

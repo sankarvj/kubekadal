@@ -1,0 +1,9 @@
+{
+  "id": "c03c17ea-fc9e-4c3c-b7f9-aaa3f302224d",
+  "name": "appversion",
+  "isOverridable": true,
+  "isEnum": false,
+  "isRegexp": false,
+  "automatedExpansion": false,
+  "allowFuzzyExtraction": false
+}

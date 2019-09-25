@@ -1,0 +1,51 @@
+[
+  {
+    "value": "deployment",
+    "synonyms": [
+      "deployment",
+      "deploy"
+    ]
+  },
+  {
+    "value": "replicaset",
+    "synonyms": [
+      "replica set",
+      "replicaset"
+    ]
+  },
+  {
+    "value": "statefulset",
+    "synonyms": [
+      "stateful set",
+      "statefulset"
+    ]
+  },
+  {
+    "value": "pod",
+    "synonyms": [
+      "pod",
+      "pods"
+    ]
+  },
+  {
+    "value": "cluster",
+    "synonyms": [
+      "cluster"
+    ]
+  },
+  {
+    "value": "service",
+    "synonyms": [
+      "service",
+      "svc",
+      "services"
+    ]
+  },
+  {
+    "value": "virtualservice",
+    "synonyms": [
+      "virtualservice",
+      "virtual service"
+    ]
+  }
+]

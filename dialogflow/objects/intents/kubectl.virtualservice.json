@@ -1,0 +1,90 @@
+{
+  "id": "d3c4ef34-5271-4386-b392-cc4ca27de990",
+  "name": "kubectl.virtualservice",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "0e2991b7-2339-4907-8972-1289baf125c5",
+          "required": false,
+          "dataType": "@appversion",
+          "name": "appversion",
+          "value": "$appversion",
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": [],
+          "isList": false
+        },
+        {
+          "id": "39fad0a1-50a5-45a3-ab9a-a1fc0f489cbb",
+          "required": false,
+          "dataType": "@application",
+          "name": "application",
+          "value": "$application",
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": [],
+          "isList": false
+        },
+        {
+          "id": "731af127-7ca3-482f-9f93-3cf81c0a9f5d",
+          "required": false,
+          "dataType": "@resource_type",
+          "name": "resource_type",
+          "value": "$resource_type",
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": [],
+          "isList": false
+        },
+        {
+          "id": "36c25c1d-8557-4006-aca4-01f043f3d8f5",
+          "required": false,
+          "dataType": "@operator",
+          "name": "operator",
+          "value": "$operator",
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": [],
+          "isList": false
+        },
+        {
+          "id": "0efffa32-c035-49bc-8990-be7beef3ead4",
+          "required": false,
+          "dataType": "@appversion",
+          "name": "appversion1",
+          "value": "$appversion1",
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": [],
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "condition": "",
+          "speech": []
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": true,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": []
+}

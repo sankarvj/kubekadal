@@ -1,0 +1,19 @@
+[
+  {
+    "value": "demo_app",
+    "synonyms": [
+      "demo_app",
+      "demo app",
+      "demo application",
+      "demo core",
+      "demo"
+    ]
+  },
+  {
+    "value": "demo_worker",
+    "synonyms": [
+      "demo_worker",
+      "demo worker"
+    ]
+  }
+]

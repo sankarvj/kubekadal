@@ -1,0 +1,298 @@
+[
+  {
+    "id": "7a3ecc85-3175-4173-8ed1-1458b0c9d27a",
+    "data": [
+      {
+        "text": "allow",
+        "alias": "operator",
+        "meta": "@operator",
+        "userDefined": false
+      },
+      {
+        "text": " traffic to ",
+        "userDefined": false
+      },
+      {
+        "text": "demo app",
+        "alias": "application",
+        "meta": "@application",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "a06b7a68-ea73-4ab8-9f50-f8b7d17e575f",
+    "data": [
+      {
+        "text": "shutdown",
+        "alias": "operator",
+        "meta": "@operator",
+        "userDefined": false
+      },
+      {
+        "text": " traffic to ",
+        "userDefined": false
+      },
+      {
+        "text": "demo app",
+        "alias": "application",
+        "meta": "@application",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "9421b897-ceb7-4165-b56d-aa85661b60a8",
+    "data": [
+      {
+        "text": "Route traffic ",
+        "userDefined": false
+      },
+      {
+        "text": "equally",
+        "alias": "operator",
+        "meta": "@operator",
+        "userDefined": false
+      },
+      {
+        "text": " among ",
+        "userDefined": false
+      },
+      {
+        "text": "v1",
+        "alias": "appversion",
+        "meta": "@appversion",
+        "userDefined": false
+      },
+      {
+        "text": " and ",
+        "userDefined": false
+      },
+      {
+        "text": "v2",
+        "alias": "appversion1",
+        "meta": "@appversion",
+        "userDefined": false
+      },
+      {
+        "text": " in ",
+        "userDefined": false
+      },
+      {
+        "text": "demo app",
+        "alias": "application",
+        "meta": "@application",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "0bec763f-4ea8-43eb-b53d-aedbb1e13321",
+    "data": [
+      {
+        "text": "Route traffic ",
+        "userDefined": false
+      },
+      {
+        "text": "equally",
+        "alias": "operator",
+        "meta": "@operator",
+        "userDefined": false
+      },
+      {
+        "text": " for ",
+        "userDefined": false
+      },
+      {
+        "text": "demo app",
+        "alias": "application",
+        "meta": "@application",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "2268317c-fde4-4a5a-8f35-30acfa1b3f5a",
+    "data": [
+      {
+        "text": "Route traffic ",
+        "userDefined": false
+      },
+      {
+        "text": "equally",
+        "alias": "operator",
+        "meta": "@operator",
+        "userDefined": true
+      },
+      {
+        "text": " for ",
+        "userDefined": false
+      },
+      {
+        "text": "virtual service",
+        "alias": "resource_type",
+        "meta": "@resource_type",
+        "userDefined": true
+      },
+      {
+        "text": "  ",
+        "userDefined": false
+      },
+      {
+        "text": "demo app",
+        "alias": "application",
+        "meta": "@application",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "2f013663-80dc-4a3f-9cfa-1dde01b48152",
+    "data": [
+      {
+        "text": "Route traffic ",
+        "userDefined": false
+      },
+      {
+        "text": "equally",
+        "alias": "operator",
+        "meta": "@operator",
+        "userDefined": true
+      },
+      {
+        "text": " for ",
+        "userDefined": false
+      },
+      {
+        "text": "virtual service",
+        "alias": "resource_type",
+        "meta": "@resource_type",
+        "userDefined": true
+      },
+      {
+        "text": "  ",
+        "userDefined": false
+      },
+      {
+        "text": "demo",
+        "alias": "application",
+        "meta": "@application",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "54211391-c796-4030-86ad-1e4c36a7b39f",
+    "data": [
+      {
+        "text": "Route ",
+        "userDefined": false
+      },
+      {
+        "text": "all",
+        "alias": "operator",
+        "meta": "@operator",
+        "userDefined": true
+      },
+      {
+        "text": " traffic to ",
+        "userDefined": false
+      },
+      {
+        "text": "v2",
+        "alias": "appversion",
+        "meta": "@appversion",
+        "userDefined": true
+      },
+      {
+        "text": " for ",
+        "userDefined": false
+      },
+      {
+        "text": "virtual service",
+        "alias": "resource_type",
+        "meta": "@resource_type",
+        "userDefined": true
+      },
+      {
+        "text": "  ",
+        "userDefined": false
+      },
+      {
+        "text": "demo",
+        "alias": "application",
+        "meta": "@application",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "a7518e7d-2ad5-4ad2-bfcf-6353d1d1ba1b",
+    "data": [
+      {
+        "text": "Route ",
+        "userDefined": false
+      },
+      {
+        "text": "all",
+        "alias": "operator",
+        "meta": "@operator",
+        "userDefined": true
+      },
+      {
+        "text": " traffic to ",
+        "userDefined": false
+      },
+      {
+        "text": "v1",
+        "alias": "appversion",
+        "meta": "@appversion",
+        "userDefined": true
+      },
+      {
+        "text": " for ",
+        "userDefined": false
+      },
+      {
+        "text": "virtual service",
+        "alias": "resource_type",
+        "meta": "@resource_type",
+        "userDefined": true
+      },
+      {
+        "text": "  ",
+        "userDefined": false
+      },
+      {
+        "text": "demo",
+        "alias": "application",
+        "meta": "@application",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]
